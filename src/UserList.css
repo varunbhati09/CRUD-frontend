@@ -1,0 +1,33 @@
+.user-list-container {
+    margin: 20px;
+  }
+  
+  .user-list-container h1 {
+    margin-bottom: 10px;
+  }
+  
+  .user-list-container table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .user-list-container th,
+  .user-list-container td {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .user-list-container th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+  
+  .user-list-container .action-link {
+    margin-right: 10px;
+  }
+  
+  .user-list-container .add-user-link {
+    display: block;
+    margin-top: 10px;
+  }
+  

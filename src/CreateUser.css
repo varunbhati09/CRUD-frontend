@@ -1,0 +1,32 @@
+.create-user-container {
+    margin: 20px;
+  }
+  
+  .create-user-container h1 {
+    margin-bottom: 10px;
+  }
+  
+  .create-user-container form {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+  }
+  
+  .create-user-container .form-group {
+    margin-bottom: 10px;
+  }
+  
+  .create-user-container label {
+    margin-bottom: 5px;
+  }
+  
+  .create-user-container input {
+    padding: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .create-user-container button {
+    padding: 5px 10px;
+    margin-top: 10px;
+  }
+  

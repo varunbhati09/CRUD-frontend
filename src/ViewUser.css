@@ -1,0 +1,26 @@
+.view-user-container {
+    margin: 20px;
+  }
+  
+  .view-user-container h1 {
+    margin-bottom: 10px;
+  }
+  
+  .view-user-container table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .view-user-container td {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .view-user-container td:first-child {
+    font-weight: bold;
+  }
+  
+  .view-user-container td:last-child {
+    font-style: italic;
+  }
+  
